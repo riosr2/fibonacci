@@ -7,15 +7,11 @@ To compile the lab, execute:
 
 $ javac Fibonacci.java
 
-To run the lab, execute:
+To run the lab, execute any of the three options:
 
-$ java Fibonacci <start number> <number of desired calculations>
+$ java Fibonacci "start number" "number of desired calculations"
 
-or 
-
-$ java Fibonacci <start number>
-
-or
+$ java Fibonacci "start number"
 
 $ java Fibonacci
 
